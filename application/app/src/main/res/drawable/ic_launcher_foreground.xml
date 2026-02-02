@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group android:scaleX="0.5"
+        android:scaleY="0.5"
+        android:translateX="27"
+        android:translateY="27">
+        <!-- Wrench icon -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,12c-5.52,0 -10.62,1.86 -14.7,5L54,31.7L68.7,17C64.62,13.86 59.52,12 54,12zM17,39.3L31.7,54L17,68.7C13.86,64.62 12,59.52 12,54c0,-5.52 1.86,-10.62 5,-14.7zM54,96c5.52,0 10.62,-1.86 14.7,-5L54,76.3L39.3,91C43.38,94.14 48.48,96 54,96zM91,68.7L76.3,54L91,39.3C94.14,43.38 96,48.48 96,54c0,5.52 -1.86,10.62 -5,14.7z"/>
+        <!-- Center circle -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,42c-6.63,0 -12,5.37 -12,12s5.37,12 12,12 12,-5.37 12,-12 -5.37,-12 -12,-12zM54,60c-3.31,0 -6,-2.69 -6,-6s2.69,-6 6,-6 6,2.69 6,6 -2.69,6 -6,6z"/>
+    </group>
+</vector>
